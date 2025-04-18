@@ -1,0 +1,1 @@
+{"name":"Local: Nearby_Squares","url":"d:\\CP\\Coding\\DSA\\DSA-JOURNEY\\Recursion\\Nearby_Squares.cpp","tests":[{"id":1744887572578,"input":"2\n4\n4 5 10 3\n5\n1 3 5 4 5","output":"44\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Coding\\DSA\\DSA-JOURNEY\\Recursion\\Nearby_Squares.cpp","group":"local","local":true}
